@@ -5,7 +5,7 @@ Bienvenue dans **Mon Premier Projet Web**, un projet réalisé à l'université 
 ## 🌐 Lien vers le site
 
 Accédez au site en cliquant sur le lien ci-dessous :  
-👉 [Mon Premier Projet Web - Anecdote](https://kalaxus1.github.io/mon-premier-projet-web/anecdote/anecdote.html)
+👉 [Mon Premier Projet Web - Accueil](https://kalaxus1.github.io/mon-premier-projet-web/index.html)
 
 ---
 
