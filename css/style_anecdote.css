@@ -1,0 +1,8 @@
+main article{
+	display: block;
+	background-color: #f1daca;
+	padding: .5em;
+	margin-top: 1em;
+	border: dashed black 1px;
+	border-radius: 30px;
+}

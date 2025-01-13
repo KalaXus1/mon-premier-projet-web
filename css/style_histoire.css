@@ -1,0 +1,41 @@
+
+
+/*************************
+ *  CSS PAGE HISTOIRE
+ *************************/
+ 
+body{
+	text-align: justify;
+	align-items: center;
+}
+ 
+ main section{
+	 display: block;
+	 margin-left: 1em;
+	 border: 1px solid black;
+	 border-radius: 30px;
+	 margin-top: 2em;
+	 padding: 1em;
+	 background-color: #f1daca;
+ }
+ 
+ main h2{
+	background-image: url("images/logo_pont.png");
+	background-repeat: no-repeat;
+	background-position: center right;
+ }
+
+ 
+ main section:hover{
+	padding: 1.5em;
+	font-size: 20px;
+	margin: 1em 0 0 0;
+ }
+ 
+main section:hover h2{
+	text-align: center;
+}
+
+main audio{
+	margin-left: 20em;
+}

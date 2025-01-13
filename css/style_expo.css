@@ -1,0 +1,21 @@
+
+
+/*************************
+ *  CSS PHOTOGRAPHIE
+ *************************/
+ 
+.expo{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.expo article{
+	display: block;
+    background-color: #f1daca;
+	margin: 0.7em;
+	padding: 1em;
+	text-align: justify;
+	border-radius: 30px;
+	box-shadow: 5px 3px 3px black;
+}
+
