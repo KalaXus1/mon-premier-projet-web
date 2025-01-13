@@ -1,4 +1,3 @@
-```markdown
 # Mon Premier Projet Web
 
 Bienvenue dans **Mon Premier Projet Web**, un projet réalisé à l'université dans le cadre d'un devoir maison. Ce projet est une première expérience de développement web, construit uniquement avec des bases en **HTML** et **CSS**.
